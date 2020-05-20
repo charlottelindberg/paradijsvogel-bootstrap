@@ -2,7 +2,8 @@
 font-family: 'Average', serif; */
 
 body {
-    font-family: "Average", serif;
+    /* font-family: "Average", serif; */
+    font-family: 'Playfair Display', serif;
 }
 
 h1,
@@ -13,3 +14,25 @@ h5,
 h6 {
     font-family: "Playfair Display SC", serif;
 }
+
+/* begin eigen toegevoegde css */
+
+.navbar {
+    padding-left: 5%;
+}
+
+.jumbotron {
+    background-image: url(../img/bird-of-paradise.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.foto {
+    background-image: url(../img/bird-of-paradise-flower.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+  
+/* eind eigen toegevoegde css */
